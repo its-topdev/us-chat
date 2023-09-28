@@ -44,6 +44,3 @@ bun dev
 Open [localhost:5173](http://localhost:5173) with your browser to see the result.
 
 ## Screenshots
-
-![Login page screenshot](/public/ss-login.png)
-![Chat page screenshot](/public/ss-chat.png)
